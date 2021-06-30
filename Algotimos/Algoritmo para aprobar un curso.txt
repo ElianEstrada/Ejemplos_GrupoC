@@ -1,0 +1,35 @@
+Algoritmo para aprobar un curso
+
+Inicio
+
+    1. Inscribir al curso
+    2. asistir a clases
+    3. realizar actividades de clase
+    4. rendir examenes
+    5. recibir nota
+    6. si nota es mayor o igual a 61 vamos al paso (7)
+        sino vamos al paso (8)
+        7. indicar que aprobo el curso y finalizar el algoritmo
+    8. Indicar que reprobo el curso y saltar al paso (1)
+Fin
+
+
+Algoritmo para llevar un curso
+
+Inicio
+
+    1. Inscribir al curso
+    2. asistir a clases
+    3. realizar actividades de clase
+    4. rendir examenes
+    5. recibir nota
+    6. si nota es mayor o igual a 61 vamos al paso (7)
+        sino vamos al paso (8)
+        7. indicar que aprobo el curso y finalizar el algoritmo
+    8. Indicar que reprobo el curso.
+    9. Preguntar si desea llevar el curso nuevamente
+    10. si la respuesta es si nos vamos al paso (11), 
+        si la respuesta es no nos vamos al paso (12)
+        11. saltar al paso (1)
+    12. Finzalizr algoritmo
+Fin

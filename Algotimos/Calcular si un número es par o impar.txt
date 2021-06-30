@@ -1,0 +1,69 @@
+Calcular si un número es par o impar
+
+Inicio
+    1. capturar numero
+    2. dividir el numero entre 2, si el residuo no es 0 ir al paso (4), 
+        si el residuo es 0 ir al paso (3).
+        3. Mostrar que el número es par
+    4. Mostrar que el número es impar
+Fin
+
+
+//Sintaxis de Python
+
+--> Sentencia para obtener información del teclado
+## 'input' '(' mensaje|vacío ')'
+
+--> variables
+-> Es un espacio de memoria donde guardamos un dato
+
+-->sintaxis de una declaracion de variable
+
+## nombre_variable '=' expresion
+ej: 
+
+    multiplicando = 3
+
+
+Nota: 
+expresión = numero_entero
+            | numero_decimal
+            | suma
+            | resta 
+            | multiplicación
+            | división
+            | cadena_de_texto
+            | valor_verdadero
+            | valor_falso
+            | sentencia
+
+
+#Instrucción IF-ELSE
+
+## 'if' '(' condicion ')' ':'
+
+## 'else' ':' 
+
+## Identación -> Tabulación
+
+
+
+Inicio
+    1. capturar numero
+    2. dividir el numero entre 2, si el residuo no es 0 ir al paso (4), 
+        si el residuo es 0 ir al paso (3).
+        3. Mostrar que el número es par
+    4. Mostrar que el número es impar
+Fin
+
+//Transcripción
+
+numero = int(input("Ingrese un número: "))
+
+resultado = numero % 2 #-> modulo 
+
+
+if (resultado == 0):
+    print("El numero es par")
+else: 
+    print("El numero es impar")

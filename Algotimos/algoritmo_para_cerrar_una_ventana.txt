@@ -1,0 +1,13 @@
+algoritmo_para_cerrar_una_ventana
+
+
+Inicio
+    1. Verificar si la Ventana esta abierta, si esta abierta nos vamos a (3), 
+        si esta cerrada nos vamos a (2)
+        2. Fin algoritmo
+    3. Ubicar la ventana, si estamos cerca ir al paso (5),
+        sino ir al paso (4).
+        4. Desplazarse a la venta
+    5. Cerrar la ventana
+Fin
+
