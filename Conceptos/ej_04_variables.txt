@@ -1,0 +1,70 @@
+para declarar una variable en python es necesario: 
+
+1. nombre_variable
+2. valor
+
+sintaxis: nombre_variable '=' expresion
+
+
+nombre_variable = empiezan con letra o _ 
+sigue con una letra, _ o número
+
+los nombres no pueden ser: 
+print, input, list, True, False, 
+int, float, bool, str, etc
+
+expresion: hay varios tipos
+
+en general tenemos signos de agrupacion
+() -> agrupan operaciones y cambian 
+precedencia
+
+1. Aritmeticas
+2. Relacionales
+3. Logicas
+4. Primitivas
+
+--Aritmeticas--
+
+Suma                -> +
+Resta               -> -
+Multiplicación      -> *
+División            -> /  -> decimal
+                    -> // -> entera
+Modulo              -> %
+potencia            -> **
+
+--Relacionles--
+
+mayor               -> >  
+mayor igual         -> >=
+menor               -> <
+menor igual         -> <=
+igual               -> ==
+diferente           -> !=
+
+nota: 
+todos los operadores relacionales 
+devuelven un valor booleano, osea, 
+True o False
+
+
+--Logicas--
+
+and                 -> and
+or                  -> or
+not                 -> not
+
+nota: 
+estos operadores trabajan con 
+valores booleanos, es decir, 
+True o False, devuelven 
+valores booleanos
+
+
+--Primitivas--
+
+numero_entero = int 1, 3, 0, -100
+cadena_texto = str -> string "" ó ''
+booleano = (True, False) = bool
+decimal = float 1.1 -5.2 100.1245
