@@ -1,0 +1,11 @@
+Objetivo: Calcular el área de un círculo
+
+Inicio
+
+1. Declara la constante pi con el valor 3.1416
+2. Solitar el valor del radio
+3. Operar la formula: pi multiplicado 
+    por el radio al cuadrado
+4. imprimir el resultado
+
+Fin

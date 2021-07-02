@@ -1,0 +1,12 @@
+Objetivo es sumar y restar 2 números
+
+Inicio
+
+1. Solicitar el primer digito
+2. Solictar el segundo digito
+3. sumar los dos números
+4. restar los dos números
+5. Imprimir suma
+6. Imprimir resta
+
+Fin
