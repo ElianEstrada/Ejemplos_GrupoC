@@ -10,7 +10,7 @@ b_pepsi = True
 
 if (b_coca or b_pepsi):
     print("Compre una bebida")
-else: 
+else:
     print("No compre nada")
 
 #Tabla de verdad del or
