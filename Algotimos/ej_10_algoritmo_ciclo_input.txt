@@ -1,0 +1,17 @@
+
+//Algoritmo para imprimir los números del 1 hasta 
+//el número que el usuario indica
+
+
+Inicio
+
+1. Solicitar el número final
+2. si el contador es menor o igual al 
+    número ingresado por el usuario 
+    ir al paso 4 sino ir al paso 3. 
+3. Mostrar un mensaje de salida y saltar al final
+4. mostrar el valor del contador
+5. incrementar el contador en 1
+6. saltar al paso 2.
+
+Fin

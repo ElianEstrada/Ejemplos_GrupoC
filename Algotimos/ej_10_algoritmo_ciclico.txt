@@ -1,0 +1,15 @@
+
+//Algoritmo para un contado
+
+Inicio
+
+1. Indicar el inicio y el fin de los 
+    numeros a imprimir
+2. si el contador es menor o igual a 10 
+    ir al paso 3, sino ir al paso 6
+    3. mostrar el valor del contador
+    4. incrementar en 1 el contador
+    5. saltar al paso 2.
+5. mostrasr un mensaje de salida
+
+Fin
